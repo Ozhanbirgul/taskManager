@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    { "id": 1, "title": "React öğren", "completed": false },
+    { "id": 2, "title": "MUI çalış", "completed": true },
+    { "id": 3, "title": "React Hook Form öğren", "completed": false },
+    { "id": 4, "title": "MUI Table yap", "completed": false },
+    { "id": 5, "title": "Axios ile API çek", "completed": true },
+    { "id": 6, "title": "Zod ile validasyon", "completed": false },
+    { "id": 7, "title": "Optimistic update dene", "completed": false },
+    { "id": 8, "title": "Dark mode ekle", "completed": true },
+    { "id": 9, "title": "Context API çalış", "completed": false },
+    { "id": 10, "title": "LinkedIn paylaşım hazırla", "completed": false }
+  ]
+}
